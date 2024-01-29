@@ -6,3 +6,5 @@ We get a median of number of rolls before fail for every 3-line combination. So 
 Next step should involve calculating expected value of rolls especially around the median number threshold to examine if next roll is EV+ and we should continue or EV- and we should stop. In reality, this is a complicated matter in which lane position, game state, and opponents' tendencies (looseness or tightness) must be taken into account.
 
 I am not even sure if I need that. Right now I use these median values as a rule of thumb and correct them using my knowledge and experience.
+
+//The code is quite old, not very optimal, and with almost no docstrings, but I don't see any point in polishing it right know ;)
