@@ -373,8 +373,8 @@ full_data.to_csv('cantstop.txt')
 Finally we got median for each 3line combination.
 
 Next step should involve calculating expected value of rolls especially around the median number threshold to examine
-if next roll is EV+ and we should continue or EV- and we should stop. In reality it's a complicated matter taking into
-account position on the line, game state, opponents tendencies (looseness or tightness). 
+if next roll is EV+ and we should continue or EV- and we should stop. In reality, this is a complicated matter in which lane position,
+game state, and opponents' tendencies (looseness or tightness) must be taken into account. 
 
 I am not even sure if I need that. Right now I use these median values as a rule of thumb and correct them using my
 knowledge and experience."""
