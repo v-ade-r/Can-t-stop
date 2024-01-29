@@ -1,4 +1,4 @@
-# Can't-stop
+# Cant stop
 This code produces a simple table which can improve your decision making in Can't Stop game (https://boardgamearena.com/).
 
 We get a median of number of rolls before fail for every 3-line combination. So as a result, we should know how many times roll dices and which 3-line combinations are the best. But there is much more nuances to consider later.
